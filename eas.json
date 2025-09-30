@@ -1,0 +1,18 @@
+{
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  }
+}
+
+//Sirve para buildear un apk; ese código es para editar el archivo que se genera tras ejecutar 
+//el código:
+
+// npx expo install eas-cli
+//npx eas login
+//npx eas build:configure
+
+//en node.js
